@@ -2,10 +2,10 @@
 name = "vertdetach"
 version = "1.0.2"
 description = "DETACH (Device Temperature and Acceleration Change) algorithm for detecting non-wear from raw accelerometer data."
-authors = [" Adam Vert <vertadam@gmail.com>"]
+authors = ["Adam Vert <vertadam@gmail.com>"]
 maintainers = ["Ali Neishabouri <ali.neishabouri@theactigraph.com>"]
 license = "MIT"
-repository = "https://github.com/nimbal/vertdetach"
+repository = "https://github.com/actigraph/vertdetach"
 readme = "README.md"
 
 [tool.poetry.dependencies]
